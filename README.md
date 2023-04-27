@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **moneysmart**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **tRPC**
 
 - 💬 Ask me about **React, Vue**
 
