@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on **moneysmart**
-
-- 🌱 I’m currently learning **tRPC**
+- 🔭 I’m currently working at **moneysmart**
 
 - 💬 Ask me about **React, Vue**
 
